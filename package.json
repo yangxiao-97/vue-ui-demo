@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/yangxiao-97/vue-ui-demo/issues"
   },
-  "homepage": "https://github.com/yangxiao-97/vue-ui-demo#readme"
+  "homepage": "https://github.com/yangxiao-97/vue-ui-demo#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
 }
